@@ -1,3 +1,3 @@
-# Kata-del-modulo-0
+# Katas
 
 Toledo Hernandez Ulises Gabriel
